@@ -7,6 +7,7 @@ public class MainProgram {
 		
 		System.out.println("This is the first ever version of my text based game!");
 		
+		System.out.println("And this is my first ever update!");
 	}
 
 }
